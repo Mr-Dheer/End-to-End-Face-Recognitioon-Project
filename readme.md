@@ -24,4 +24,4 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 
-Here is the video playlist for entire project: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc
+The project was developed with the guidance of Dhavan Patel's,  'CodeBasics' YouTube Channel  
