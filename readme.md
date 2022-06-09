@@ -7,7 +7,7 @@ In this data science and machine learning project, we classify sports personalit
 4) Roger Federer
 5) Lionel Messi
 
-Here is the folder structure,
+Here is the folder structure:-
 * UI : This contains ui website code 
 * server: Python flask server
 * model: Contains python notebook for model building
