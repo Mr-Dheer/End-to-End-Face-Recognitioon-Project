@@ -23,5 +23,3 @@ Technologies used in this project,
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
-
-The project was developed with the guidance of Dhavan Patel's,  'CodeBasics' YouTube Channel  
